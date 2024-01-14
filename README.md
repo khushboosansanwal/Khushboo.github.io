@@ -1,9 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, Machine Learning, Scikit learn, SQL, Data Analytics, Text analytics, NLP, Tableau, Statistics, Apache Hadoop, Big Data,Map Reduce, Apache Spark, SAS, Advanced Excel, Discrete Event Simulation(Simul8), VBA
+### Technical Skills: 
+Python, R, Machine Learning, Scikit learn, SQL, Data Analytics, Text analytics, NLP, Tableau, Statistics, Apache Hadoop, Big Data,Map Reduce, Apache Spark, SAS, Advanced Excel, Discrete Event Simulation(Simul8), VBA
 
 ## Education							       		
-- MSc, Business Analytics : Operational Research and Risk analysis	| The University of Manchester (_Machester,United Kingdom) 			        		
+- MSc, Business Analytics : Operational Research and Risk analysis	| The University of Manchester (_Machester,United Kingdom_) 			        		
 - Bachelor of Technology, Computer Science Engineering | Guru Gobind Singh Indraprastha University (_New Delhi,India_)
 
 ## Work Experience
